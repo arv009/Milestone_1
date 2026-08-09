@@ -1,4 +1,4 @@
-# Milestone 1
+# Milestone 1 - Temperature Advisor
 This is my milestone 1 for my Python Class with Uplift Code Camp.
 
 ## What the Program Does
